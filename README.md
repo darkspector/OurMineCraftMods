@@ -1,2 +1,2 @@
 # OurMineCraftMods
-#Mod packages for CatCafe Minecraft instance
+# Mod packages for CatCafe Minecraft instance
